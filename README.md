@@ -38,19 +38,19 @@ The dataset contains telecom customer information including contract type, inter
 
 Month-to-month customers showed the highest churn rate, while customers with longer-term contracts showed substantially lower churn.
 
-![Churn by Contract Type](images/churn_by_contract.png)
+![Churn by Contract Type](images/Churn%20by%20Contract%20Type.png)
 
 ### Churn by Internet Service
 
 Customers using different internet services showed noticeable differences in churn rates, highlighting internet service type as an important segment for analysis.
 
-![Churn by Internet Service](images/churn_by_internet_service.png)
+![Churn by Internet Service](images/Churn%20by%20Internet%20Service.png)
 
 ### Monthly Charges by Churn
 
 Customers who churned had higher average monthly charges compared with customers who stayed.
 
-![Monthly Charges by Churn](images/monthly_charges_by_churn.png)
+![Monthly Charges by Churn](images/Monthly%20Changes%20by%20Churn.png)
 
 ## How to Run
 
