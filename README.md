@@ -47,7 +47,7 @@ Telecom-Customer-Churn-Analysis/
 │   └── Monthly Charges by Churn.png
 │
 ├── notebooks/
-│   └── Telecom Customer Churn Analysis.ipynb
+│   └── Telecom_Customer_Churn_&_Usage_Analysis.ipynb
 │
 └── README.md
 
