@@ -50,7 +50,7 @@ Customers using different internet services showed noticeable differences in chu
 
 Customers who churned had higher average monthly charges compared with customers who stayed.
 
-![Monthly Charges by Churn](images/Monthly%20Changes%20by%20Churn.png)
+![Monthly Charges by Churn](images/Monthly%20Charges%20by%20Churn.png)
 
 ## How to Run
 
